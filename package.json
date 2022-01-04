@@ -1,0 +1,16 @@
+{
+  "name": "l06-express",
+  "version": "1.0.0",
+  "description": "opis",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "WK",
+  "license": "ISC"
+}
