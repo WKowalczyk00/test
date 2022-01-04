@@ -11,6 +11,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Wojciech Kowlalczyk seima",
+  "author": "Wojciech Kowalczyk",
   "license": "ISC"
 }
